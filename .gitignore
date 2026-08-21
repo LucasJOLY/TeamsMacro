@@ -4,3 +4,11 @@ dist/
 *.xcodeproj
 xcuserdata/
 DerivedData/
+
+# Windows / Python
+windows/.venv/
+windows/**/__pycache__/
+windows/**/*.pyc
+windows/*.egg-info/
+windows/dist/
+windows/build/
